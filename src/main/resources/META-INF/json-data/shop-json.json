@@ -1,0 +1,122 @@
+[
+  {
+    "shopId": "1",
+    "shopName": "Luxury Hotel",
+    "addressId": "1"
+  },
+  {
+    "shopId": "2",
+    "shopName": "St Laurn Business Hotels",
+    "addressId": "2"
+  },
+  {
+    "shopId": "3",
+    "shopName": "Conrad Pune",
+    "addressId": "3"
+  },
+  {
+    "shopId": "4",
+    "shopName": "Vivanta By Taj",
+    "addressId": "4"
+  },
+  {
+    "shopId": "5",
+    "shopName": "Luxury Hotel",
+    "addressId": "5"
+  },
+  {
+    "shopId": "6",
+    "shopName": "Kapila Business Hotel",
+    "addressId": 6
+  },
+  {
+    "shopId": 7,
+    "shopName": "Park Central Hotel",
+    "addressId": 7
+  },
+  {
+    "shopId": 8,
+    "shopName": "The Sirona Hotel",
+    "addressId": 8
+  },
+  {
+    "shopId": 9,
+    "shopName": "The Pride Hotel Pune, 5",
+    "addressId": 9
+  },
+  {
+    "shopId": 10,
+    "shopName": "The Central Park Hotel",
+    "addressId": 10
+  },
+  {
+    "shopId": 11,
+    "shopName": "The Centurion Hote",
+    "addressId": 11
+  },
+  {
+    "shopId": 12,
+    "shopName": "Coronet hotel",
+    "addressId": 12
+  },
+  {
+    "shopId": 13,
+    "shopName": "Hotel Bhooshan",
+    "addressId": 13
+  },
+  {
+    "shopId": 14,
+    "shopName": "JW Marriott Hotel Pune",
+    "addressId": 14
+  },
+  {
+    "shopId": 15,
+    "shopName": "Ambassador Hotel",
+    "addressId": 15
+  },
+  {
+    "shopId": 16,
+    "shopName": "The Ambience Hotel",
+    "addressId": 16
+  },
+  {
+    "shopId": 17,
+    "shopName": "Madhuvan Hotel",
+    "addressId": 17
+  },
+  {
+    "shopId": 18,
+    "shopName": "HOTEL Godbole",
+    "addressId": 18
+  },
+  {
+    "shopId": 19,
+    "shopName": "Hotel Pleasant Stay",
+    "addressId": 19
+  },
+  {
+    "shopId": 20,
+    "shopName": "Hotel Regency",
+    "addressId": 20
+  },
+  {
+    "shopId": 21,
+    "shopName": "Hotel Tourist",
+    "addressId": 21
+  },
+  {
+    "shopId": 22,
+    "shopName": "Hotel Ayodhya",
+    "addressId": 22
+  },
+  {
+    "shopId": 23,
+    "shopName": "Hotel Sony Palace",
+    "addressId": 23
+  },
+  {
+    "shopId": 24,
+    "shopName": "Hotel Majestic",
+    "addressId": 24
+  }
+]

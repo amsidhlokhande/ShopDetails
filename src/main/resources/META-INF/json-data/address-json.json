@@ -1,0 +1,122 @@
+[
+  {
+    "addressId": 1,
+    "location": "7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "shopId": 1
+  },
+  {
+    "addressId": 2,
+    "location": "St Laurn Business Hotels, 15/A, Koregaon Park Road, Vasani Nagar, Koregaon Park, Pune, Maharashtra 411001",
+    "shopId": 2
+  },
+  {
+    "addressId": 3,
+    "location": "Conrad Pune, 7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "shopId": 3
+  },
+  {
+    "addressId": 4,
+    "location": "Vivanta By Taj - Blue Diamond, Pune, 11, Koregaon Road, Pune, Maharashtra 411001",
+    "shopId": 4
+  },
+  {
+    "addressId": 5,
+    "location": "Luxury Hotel,11, Koregaon Road, Pune, Maharashtra 411001",
+    "shopId": 5
+  },
+  {
+    "addressId": 6,
+    "location": "Kapila Business Hotel, 174, BS Dhole Patil Path, Sangamvadi, Pune, Maharashtra 411001",
+    "shopId": 6
+  },
+  {
+    "addressId": 7,
+    "location": "Park Central Hotel, Near Bund Garden Signal, A Ln, Koregaon Park, Pune, Maharashtra 411001",
+    "shopId": 7
+  },
+  {
+    "addressId": 8,
+    "location": "The Sirona Hotel, Bund Garden Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "shopId": 8
+  },
+  {
+    "addressId": 9,
+    "location": "The Pride Hotel Pune, 5, University Road, Shivajinagar, Pune, Maharashtra 411005",
+    "shopId": 9
+  },
+  {
+    "addressId": 10,
+    "location": "The Central Park Hotel, Bapusaheb Gupte Marg, Shivajinagar, Pune, Maharashtra 41100",
+    "shopId": 10
+  },
+  {
+    "addressId": 11,
+    "location": "The Centurion Hotel, Opp. Akashwani, Next to SSC Board, Shivaji Nagar, Pune, Maharashtra 411005",
+    "shopId": 11
+  },
+  {
+    "addressId": 12,
+    "location": "Coronet hotel, Deccan Gymkhana Rd, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "shopId": 12
+  },
+  {
+    "addressId": 13,
+    "location": "1170/7, Revenue Colony, Behind Jangli Maharaj Temple, Shivajinagar,Pune, Maharashtra 411005",
+    "shopId": 13
+  },
+  {
+    "addressId": 14,
+    "location": "JW Marriott Hotel Pune, Senapati Bapat Road, Pune, Maharashtra 411053",
+    "shopId": 14
+  },
+  {
+    "addressId": 15,
+    "location": "Ambassador Hotel, 1125, Model Colony, Off. F. C. Road, Shivaji Nagar, Pune, Maharashtra 411016",
+    "shopId": 15
+  },
+  {
+    "addressId": 16,
+    "location": "The Ambience Hotel, C.T.S No.1105/2, Lakaki Road, Near Telephone Exchange, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+    "shopId": 16
+  },
+  {
+    "addressId": 17,
+    "location": "Madhuvan Hotel, Station Rd, Chattrapati Shivaji Nagar, Vijayapura, Karnataka 586101",
+    "shopId": 17
+  },
+  {
+    "addressId": 18,
+    "location": "Opp. Gol Gumbaj, Station Road, Vijayapura, Karnataka 586104",
+    "shopId": 18
+  },
+  {
+    "addressId": 19,
+    "location": "Hotel Pleasant Stay, Solapur Rd, Adarsh Nagar, Vijayapura, Karnataka 586103",
+    "shopId": 19
+  },
+  {
+    "addressId": 20,
+    "location": "Hotel Regency, Saqaf Roza Rd, Saquaf Roza, Vijayapura, Karnataka 586101",
+    "shopId": 20
+  },
+  {
+    "addressId": 21,
+    "location": "Hotel Tourist, 204, Station Rd, E Ward, Shivaji Park, Kolhapur, Maharashtra 416001",
+    "shopId": 21
+  },
+  {
+    "addressId": 22,
+    "location": "Hotel Ayodhya, 198, E, Tararani Chowk, Kawalanaka, Kolhapur, Maharashtra 416003",
+    "shopId": 22
+  },
+  {
+    "addressId": 23,
+    "location": "Hotel Sony Palace, C.S.No.453, B/2, E Ward, Opp.Market Yard, Kolhapur, Maharashtra 416005",
+    "shopId": 23
+  },
+  {
+    "addressId": 24,
+    "location": "Hotel Majestic, Royal Plaza, National Highway 204, Shahupuri, Kolhapur, Maharashtra 416003",
+    "shopId": 24
+  }
+]   

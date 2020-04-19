@@ -1,0 +1,45 @@
+To get All shops with individual shop and their address links.
+
+http://localhost:8181/ShopDetails/shops
+
+Get shop details with with address link by shopId 
+http://localhost:8181/ShopDetails/shops/{shopId}
+
+Get all the shops near to a particular pincode
+http://localhost:8181/ShopDetails/addresses/pincode/{pinCode}
+
+Get all address
+http://localhost:8181/ShopDetails/addresses
+
+For adding a shop along with address we should follow two step.
+ 1) Add a shop by giving a addressId
+     http://localhost:8181/ShopDetails/shops -- Http Post method
+      
+     sample data-
+       {
+		"shopId": 25,
+		"shopName": "Lakeside Chalet, Mumbai - Marriott Executive Apartments",
+		"addressId": 25
+	  }
+	  
+	  if address not saved then shop added with empty address.
+ 2) add address with that addressId.
+      --This call has GEO calling service to get longitude and latitude of a given address 
+      means the address should have a geological location.
+      http://maps.googleapis.com/maps/api/geocode/json?address='Lakeside Chalet, Mumbai - Marriott Executive Apartments'&sensor=false
+      
+      
+      http://localhost:8181/ShopDetails/addresses  --Http Post Method.
+      {
+		"addressId": 25,
+		"location": "#2 & 3B, Near Chinmayanand Ashram, Powai, Mumbai, Maharashtra 400087, India",
+		"shopId": 25
+	  }
+	  
+	  Now you can search the shop by shopId.
+      
+      
+ 
+  
+
+  

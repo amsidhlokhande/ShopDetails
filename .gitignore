@@ -1,0 +1,27 @@
+.settings
+bin
+.classpath
+.project
+.springBeans
+.class
+output
+out
+build
+target
+.epoch
+.lck
+.log
+.bk
+
+.gradle
+build
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Cache of project
+.gradletasknamecache
+/gradle/
+/*.iml
+
+/.idea/
